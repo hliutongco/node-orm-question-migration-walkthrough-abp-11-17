@@ -18,9 +18,4 @@ class Question{
   }
 }
 
-(async function(){
-  await CreateTable();
-})();
-
-
 module.exports = Question;
